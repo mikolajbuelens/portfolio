@@ -58,7 +58,7 @@ export default function Home() {
         </div>
         <header>
           <div className="intro">
-            <p>Hallo world,</p>
+            <p>Hello world,</p>
             <h1>
               MY NAME IS <strong>Mikolaj</strong>.
             </h1>
