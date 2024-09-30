@@ -2,112 +2,99 @@
   {
     "id": 1,
     "name": "Project 1",
-    "description": "This is a project",
-    "image": "placeholder.jpg",
-    "url": "https://www.google.com",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
+    "image": "expo24.png",
+    "github": "https://github.com/EHB-MCT/fp4-portfolio-portfolio-team",
+    "url": "https://www.multimedia.brussels",
     "type": "project"
   },
   {
     "id": 2,
     "name": "Project 2",
-    "description": "This is a project",
-    "image": "placeholder.jpg",
-    "url": "https://www.google.com",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
+    "image": "codex.png",
+    "github": "https://github.com/EHB-MCT/back-end-to-binge-or-not-to-binge-mikolajbuelens",
+    "url": "http://10.2.160.157/course-project/public/",
     "type": "project"
   },
   {
     "id": 3,
     "name": "Project 3",
-    "description": "This is a project",
-    "image": "placeholder.jpg",
-    "url": "https://www.google.com",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
+    "github": "https://github.com/EHB-MCT/frontend-courseproject-mikolajbuelens ",
+    "image": "front-end.png",
+    "url": "https://ehb-mct.github.io/frontend-courseproject-mikolajbuelens/",
     "type": "project"
   },
   {
     "id": 4,
     "name": "skill 1",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
+    "description": "",
+    "image": "wilderen.png",
+    "github": "https://github.com/Rowanbiets/Brouwerij-WIlderen",
+
+    "url": "https://www.brouwerijwilderen.be/",
+    "type": "project"
+  },
+  {
+    "id": 5,
+    "name": "skill 1",
+    "description": "",
+    "image": "dev4.png",
+    "github": "https://github.com/EHB-MCT/dev4-rollercoaster-tycoon-mikolajb-jasperv",
+
+    "url": "https://www.google.com",
+    "type": "project"
+  },
+  {
+    "id": 6,
+    "name": "skill 1",
+    "description": "",
+    "github": "https://github.com/mikolajbuelens/website-randy",
+    "image": "vliegveld.png",
+    "url": "https://grimbergen1939-1946.be/",
+    "type": "project"
+  },
+
+  {
+    "id": 7,
+    "name": "skill 2",
+    "description": "",
+    "image": "skillImages/Laravel.svg.png",
+    "url": "https://www.google.com",
+    "type": "skill"
+  },
+  {
+    "id": 8,
+    "name": "skill 2",
+    "description": "",
+    "image": "skillImages/mysql.png",
+    "url": "https://www.google.com",
+    "type": "skill"
+  },
+
+  {
+    "id": 9,
+    "name": "skill 2",
+    "description": "",
+    "image": "skillImages/spring.png",
+    "url": "https://www.google.com",
+    "type": "skill"
+  },
+
+  {
+    "id": 10,
+    "name": "skill 1",
+    "description": "",
     "image": "skillImages/node.png",
     "url": "https://www.google.com",
     "type": "skill"
   },
   {
-    "id": 5,
-    "name": "skill 2",
-    "description": "  ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
+    "id": 11,
+    "name": "skill 1",
+    "description": "",
     "image": "skillImages/react.png",
-    "url": "https://www.google.com",
-    "type": "skill"
-  },
-  {
-    "id": 6,
-    "name": "skill 3",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
-    "image": "skillImages/Laravel.svg.png",
-    "url": "https://www.google.com",
-    "type": "skill"
-  },
-  {
-    "id": 6,
-    "name": "skill 3",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
-    "image": "skillImages/Laravel.svg.png",
-    "url": "https://www.google.com",
-    "type": "skill"
-  },
-  {
-    "id": 6,
-    "name": "skill 3",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
-    "image": "skillImages/Laravel.svg.png",
-    "url": "https://www.google.com",
-    "type": "skill"
-  },
-  {
-    "id": 6,
-    "name": "skill 3",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
-    "image": "skillImages/Laravel.svg.png",
-    "url": "https://www.google.com",
-    "type": "skill"
-  },
-  {
-    "id": 6,
-    "name": "skill 3",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
-    "image": "skillImages/Laravel.svg.png",
-    "url": "https://www.google.com",
-    "type": "skill"
-  },
-  {
-    "id": 6,
-    "name": "skill 3",
-    "description": "LoremLorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
-    "image": "skillImages/Laravel.svg.png",
-    "url": "https://www.google.com",
-    "type": "skill"
-  },
-  {
-    "id": 6,
-    "name": "skill 3",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
-    "image": "skillImages/Laravel.svg.png",
-    "url": "https://www.google.com",
-    "type": "skill"
-  },
-  {
-    "id": 6,
-    "name": "skill 3",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
-    "image": "skillImages/Laravel.svg.png",
-    "url": "https://www.google.com",
-    "type": "skill"
-  },
-  {
-    "id": 6,
-    "name": "skill 3",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium voluptas pariatur ipsum non sit? Accusantium quisquam vitae, corrupti libero corporis, placeat in sint at dolor, sed magnam eius nulla sunt.",
-    "image": "skillImages/Laravel.svg.png",
     "url": "https://www.google.com",
     "type": "skill"
   }
