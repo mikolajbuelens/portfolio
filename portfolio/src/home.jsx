@@ -44,7 +44,7 @@ export default function Home() {
               />
             </svg>
           </a>
-          <a href="mailto">
+          <a target="blank" href="mailto:mikolaj.buelens@student.ehb.be">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               height="24px"
