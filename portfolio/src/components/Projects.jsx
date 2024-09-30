@@ -1,6 +1,5 @@
 import ProjectCard from "./ProjectCard";
 import data from "../../data/projectsSkills.json";
-import Slider from "infinite-react-carousel";
 
 const projects = data.filter((project) => project.type === "project");
 export default function Projects() {

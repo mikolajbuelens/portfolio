@@ -1,7 +1,6 @@
 import SkillCard from "./SkillCard";
 import DATA from "../../data/projectsSkills.json";
 
-import Slider from "infinite-react-carousel";
 
 const skills = DATA.filter((skill) => skill.type === "skill");
 
