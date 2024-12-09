@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Project 1",
-    "description": "A full-stack project I made in a team with four fellow students for EXPO24, a event organised by Erasmus Hogeschool Brussel where students can showcase their final work. The site's main goals where to display the students along with their projects as well as provide a secure voting system for visitos of the event. The site was made using Laravel, MySQL and React.",
+    "description": "A full-stack project I made in a team with four fellow students for EXPO24, an event organised by Erasmus Hogeschool Brussel where students can showcase their final work. The site's main goals where to display the students along with their projects as well as provide a secure voting system for visitors of the event. The site was made using Laravel, MySQL and React.",
     "image": "expo24.png",
     "github": "https://github.com/EHB-MCT/fp4-portfolio-portfolio-team",
     "url": "https://www.multimedia.brussels",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Project 2",
-    "description": "My main course project for the course 'back-end' during my second year at Erasmus Hogeschool Brussel. The site acts as a Netflix/Youtube clone where users can register/login and search for videos as well as save personal notes. It also feautures a admin panel where the admin can add, edit and delete videos and see some basic statistics of the site. The site was made using Laravel and MySQL.",
+    "description": "My main course project for the course 'back-end' during my second year at Erasmus Hogeschool Brussel. The site acts as a Netflix/Youtube clone where users can register/login and search for videos as well as save personal notes. It also feautures a admin panel where the admin can add, edit and delete videos and see some basic statistics of the site. The site was made using Laravel and MySQL and Blade.",
     "image": "codex.png",
     "github": "https://github.com/EHB-MCT/back-end-to-binge-or-not-to-binge-mikolajbuelens",
     "url": "http://10.2.160.157/course-project/public/",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Project 3",
-    "description": "My main course project for the course 'front-end' during my second year at Erasmus Hogeschool Brussel. This site was made using React and React-spring as well as AI generated Illustrations to tell the story of the 'Wolf and the seven goats'. The parallax effect atchieved with React-Spring ensures the user can scroll through the story in a fun and interactive way. Animation and sound effects are also present throughout the site.",
+    "description": "My main course project for the course 'front-end' during my second year at Erasmus Hogeschool Brussel. This site was made using React and React-spring as well as AI generated Illustrations to tell the story of 'The wolf and the seven goats'. The parallax effect, achieved with React-Spring, ensures the user can scroll through the story in a fun and interactive way. Animation and sound effects are also present throughout the experience.",
     "github": "https://github.com/EHB-MCT/frontend-courseproject-mikolajbuelens ",
     "image": "front-end.png",
     "url": "https://ehb-mct.github.io/frontend-courseproject-mikolajbuelens/",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "skill 1",
-    "description": "A static website I made with the help of a fellow student, Rowan, for 'Brouwerij Wilderen' in Sint-Truiden. This project marks the first time I worked with a client outside of school and has been a great learning experience. The site offers a wide range of pages for potential customers as well as long time fans. Unique pages for each beer and spirit have also been created, giving each one a unqiue look and feel. The site was made using HTML, CSS and plain JavaScript.",
+    "description": "A static website I made with the help of a fellow student, Rowan, for 'Brouwerij Wilderen' in Sint-Truiden. This project marks the first time I worked with a client outside of school and has been a great learning experience. The site offers a wide range of pages for potential customers as well as long time fans. Unique pages for each beer and spirit have also been created, giving each one a unqiue look and feel. The site was made using HTML, CSS and 'vanilla' JavaScript.",
     "image": "wilderen.png",
     "github": "https://github.com/Rowanbiets/Brouwerij-WIlderen",
 
@@ -49,7 +49,7 @@
   {
     "id": 6,
     "name": "skill 1",
-    "description": "A site I made for my cousin who is a co-author of the book 'vliegveld Grimbergen' which this website helped promote. The site offers a wide range of information about the history of Grimbergen during the second world war including a timeline and a virtual museum with images of locally found artifects. The site was made using React.",
+    "description": "A site I made for my cousin who is a co-author of the book 'vliegveld Grimbergen' which this website helped promote. The site offers a wide range of information about the history of Grimbergen during the second world war including a timeline and a virtual museum with images of locally found artifacts. The site was made using React.",
     "github": "https://github.com/mikolajbuelens/website-randy",
     "image": "vliegveld.png",
     "url": "https://grimbergen1939-1946.be/",
@@ -58,7 +58,7 @@
   {
     "id": 7,
     "name": "skill 1",
-    "description": "My first prototype during the 'Expert Lab' course in my final year at Erasmus Hogeschool Brussel. In this 2 week project I started experminting with Python and the Django framework for the first time. The site features a login/registration system and CRUD operations for thos who are logged in, giving them access to the managing of news articles. The site was made using Django and PostgrSQL.",
+    "description": "My first prototype during the 'Expert Lab' course in my final year at Erasmus Hogeschool Brussel. In this project I started experminting with Python and the Django framework for the first time for the duration of two weeks. The site features a login/registration system and CRUD operations for thos who are logged in, giving them access to the managing of news articles. The site was made using Django and PostgrSQL.",
     "github": "https://github.com/mikolajbuelens/prototype-1",
     "image": "prototype1.png",
     "url": "https://prototype-1-va9z.onrender.com/",
@@ -68,7 +68,7 @@
   {
     "id": 8,
     "name": "skill 1",
-    "description": "A prototype I made during the 'Expert Lab' course, here I made a web scrapper with PHP and the Laravel framework. The site scrapes data of all the sneakers on the Torfs website and displays them in a clean and easy to read way, displaying their image, name and price.",
+    "description": "A prototype I made during the 'Expert Lab' course, here I made my first web scrapper with the Laravel framework. The site scrapes data of all the sneakers on the Torfs website and displays them in a clean and easy to read way, displaying their image, name and price.",
     "github": "https://github.com/mikolajbuelens/prototype-2",
     "image": "prototype2.png",
     "url": "",
@@ -77,7 +77,7 @@
   {
     "id": 9,
     "name": "skill 1",
-    "description": "My first attempt at an application using React Native, I made this during the 'Expert Lab' course. My main goal was to indrocude myself to the world of mobile development and React Native. The app shows a user a random quote from that gets fetched from an self-made API, made with Laravel. Users can also post new quotes to the API.",
+    "description": "My first attempt at an application using React Native, I made this during the 'Expert Lab' course. My main goal was to introduce myself to the world of mobile development and React Native. The app shows a user a random quote which gets fetched from an self-made API, made with Laravel. Users can also post new quotes along with the author to the API.",
     "github": "https://github.com/mikolajbuelens/prototype-3",
     "image": "prototype3.png",
     "url": "",
@@ -86,7 +86,7 @@
   {
     "id": 10,
     "name": "skill 1",
-    "description": "My last prototype during the 'Expert Lab' course. Here I login system with the help of Next.js and Supabase. Users can login with either their email, Google, Github, Facebook or X account as well as see their public Github repositories when using the Github login.",
+    "description": "My last prototype during the 'Expert Lab' course. A login system made with the help of Next.js and Supabase. Users can sing in with either their email, Google, Github, Facebook or X account as well as see their public Github repositories when using the Github login.",
     "github": "https://github.com/mikolajbuelens/prototype-4",
     "image": "prototype4.png",
     "url": "https://prototype-4.vercel.app/",
