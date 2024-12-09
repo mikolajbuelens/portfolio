@@ -12,6 +12,10 @@ header img {
   object-fit: cover;
 }
 
+.hidden {
+  display: none;
+}
+
 .skills {
   border-bottom: #2ad882 0.5px solid;
   padding: 5px;
@@ -242,14 +246,14 @@ section {
 }
 
 .socialMedia svg {
-  width: 20px;
-  height: 20px;
+  width: 25px;
+  height: 25px;
   object-fit: cover;
 }
 
 .project-card img {
-  /* border-radius: 10px 10px 0px 0px; */
-  /* max-width: 30%; */
+  max-height: 500px;
+  object-fit: fill;
 }
 .project-card {
   max-width: 45%;
@@ -259,8 +263,15 @@ section {
 .projectImg {
   /* height: 300px !important; */
   /* height: 400px !important; */
+  width: 100%;
+  object-fit: cover !important;
+  height: 500px;
 }
 
+/* #root > div > section > div.projects > div:nth-child(9) > img {
+  width: 800px !important;
+  object-fit: cover;
+} */
 .mywork {
   background-color: #222222;
   width: 100%;
@@ -276,6 +287,17 @@ html {
 
 .project-card {
   /* height: 300px; */
+}
+
+.project-description {
+  font-size: 14px;
+  font-weight: 500;
+  font-family: jetbrains mono;
+  margin: 30px 30px 0px 30px;
+  height: 100px;
+  /* text-align: center; */
+  color: white;
+  /* width: 600px; */
 }
 
 .projects {
