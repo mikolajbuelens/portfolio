@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <div id="about" className="about">
-      <h1 className="subtitle">About</h1>
+      <h1 className="subtitle">About me</h1>
       <img src="pc-head.png" alt="" />
       <p className="aboutMeText">
         Technology has fascinated me for as long as I can remember. Whether it
@@ -13,7 +13,8 @@ export default function About() {
         began. From mastering HTML to diving deep into PHP and Laravel, I've
         gained valuable knowledge each year, along with a growing admiration for
         back-end development. Now, as I near the end of my academic journey, I’m
-        excited to seek an internship to further hone my skills.
+        excited to take the final steps towards becoming a full-time web
+        developer.
       </p>
     </div>
   );
