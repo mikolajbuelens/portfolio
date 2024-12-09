@@ -14,7 +14,7 @@
     "description": "My main course project for the course 'back-end' during my second year at Erasmus Hogeschool Brussel. The site acts as a Netflix/Youtube clone where users can register/login and search for videos as well as save personal notes. It also feautures a admin panel where the admin can add, edit and delete videos and see some basic statistics of the site. The site was made using Laravel and MySQL and Blade.",
     "image": "codex.png",
     "github": "https://github.com/EHB-MCT/back-end-to-binge-or-not-to-binge-mikolajbuelens",
-    "url": "http://10.2.160.157/course-project/public/",
+    "url": "",
     "type": "project"
   },
   {
