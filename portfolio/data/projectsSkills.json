@@ -58,7 +58,7 @@
   {
     "id": 7,
     "name": "skill 1",
-    "description": "My first prototype during the 'Expert Lab' course in my final year at Erasmus Hogeschool Brussel. In this project I started experminting with Python and the Django framework for the first time for the duration of two weeks. The site features a login/registration system and CRUD operations for thos who are logged in, giving them access to the managing of news articles. The site was made using Django and PostgrSQL.",
+    "description": "My first prototype during the 'Expert Lab' course in my final year at Erasmus Hogeschool Brussel. In this project I started experimenting with Python and the Django framework for the first time for the duration of two weeks. The site features a login/registration system and CRUD operations for thos who are logged in, giving them access to the managing of news articles. The site was made using Django and PostgrSQL.",
     "github": "https://github.com/mikolajbuelens/prototype-1",
     "image": "prototype1.png",
     "url": "https://prototype-1-va9z.onrender.com/",
